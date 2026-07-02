@@ -390,8 +390,8 @@ terraform destroy -var-file="terraform.tfvars"
 ## 👨‍💻 Author
 
 **Hamza Umer**
-- GitHub: [@hamza-umer](https://github.com/hamza-umer)
-- LinkedIn: [Hamza Umer](https://linkedin.com/in/hamza-umer)
+- GitHub: [@hamza-umer](https://github.com/raihamzaumer)
+- LinkedIn: [Hamza Umer](https://linkedin.com/in/hamza-aws)
 
 ---
 
