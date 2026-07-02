@@ -52,17 +52,6 @@
 
 ---
 
-## 📸 Screenshots
-
-| Pods Running (Lens) | GitHub Actions Pipeline |
-|---|---|
-| ![Pods](https://your-image-link/pods.png) | ![CI/CD](https://your-image-link/cicd.png) |
-
-| EKS Cluster (AWS Console) | Helm Releases (Lens) |
-|---|---|
-| ![EKS](https://your-image-link/eks-cluster.png) | ![Helm](https://your-image-link/helm-releases.png) |
-
----
 
 ## 🏗️ Architecture
 
