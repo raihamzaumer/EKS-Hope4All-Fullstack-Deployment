@@ -22,7 +22,7 @@
 
 ### Helm Releases
 
-![Helm Releases](Snapshots/Helm-release.png)
+![Helm Releases](Snapshots/HelmRelease.png)
 
 ---
 
@@ -46,7 +46,7 @@
 
 ### Architecture Diagram
 
-![Architecture](Snapshots/Architecture%20diagram.png)
+![Architecture](Snapshots/ArchitectureDiagram.png)
 
 > A production-ready three-tier application deployed on Amazon EKS using Terraform, Helm, and GitHub Actions CI/CD pipeline.
 
