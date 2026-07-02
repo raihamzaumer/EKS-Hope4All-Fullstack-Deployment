@@ -1,12 +1,52 @@
 # Hope4All — AWS EKS Deployment 🚀
 
-![EKS](https://img.shields.io/badge/AWS-EKS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+## 📸 Screenshots
+
+### Kubernetes Pods (Lens)
+
+![Lens Pods](Snapshots/lenz-pods.png)
+
+---
+
+### GitHub Actions - Frontend
+
+![Frontend Workflow](Snapshots/Frontend-workflow.png)
+
+---
+
+### GitHub Actions - Backend
+
+![Backend Workflow](Snapshots/Backend-workflow.png)
+
+---
+
+### Helm Releases
+
+![Helm Releases](Snapshots/Helm-release.png)
+
+---
+
+### EKS Dashboard
+
+![Dashboard](Snapshots/Dashboard.png)
+
+---
+
+### AWS Console
+
+![AWS Console](Snapshots/console.png)
+
+---
+
+### Terraform Resources
+
+![Terraform](Snapshots/Terraform.png)
+
+---
+
+### Architecture Diagram
+
+![Architecture](Snapshots/Architecture%20diagram.png)
 
 > A production-ready three-tier application deployed on Amazon EKS using Terraform, Helm, and GitHub Actions CI/CD pipeline.
 
